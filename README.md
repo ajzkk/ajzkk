@@ -7,6 +7,4 @@
                                                            /____/                                                                 
 ```
 
-### Hi, I'm AJ
-
 ![My Stacks](https://skillicons.dev/icons?i=nodejs,ts,react,vue,tailwind,flutter,dart,php,laravel,mysql,postgres,mongodb,figma,nuxtjs,docker,aws)
