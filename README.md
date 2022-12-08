@@ -1,16 +1,12 @@
-### Hi there 👋
+```js
+   _____       ______                              ______            _                     
+  / ___/____  / __/ /__      ______ _________     / ____/___  ____ _(_)___  ___  ___  _____
+  \__ \/ __ \/ /_/ __/ | /| / / __ `/ ___/ _ \   / __/ / __ \/ __ `/ / __ \/ _ \/ _ \/ ___/
+ ___/ / /_/ / __/ /_ | |/ |/ / /_/ / /  /  __/  / /___/ / / / /_/ / / / / /  __/  __/ /    
+/____/\____/_/  \__/ |__/|__/\__,_/_/   \___/  /_____/_/ /_/\__, /_/_/ /_/\___/\___/_/     
+                                                           /____/                                                                 
+```
 
-<!--
-**ajzkk/ajzkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, I'm AJ
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![My Stacks](https://skillicons.dev/icons?i=nodejs,ts,react,vue,tailwind,flutter,dart,php,laravel,mysql,postgres,mongodb,figma,nuxtjs,docker,aws)
