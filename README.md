@@ -1,10 +1,1 @@
-```js
-   _____       ______                              ______            _                     
-  / ___/____  / __/ /__      ______ _________     / ____/___  ____ _(_)___  ___  ___  _____
-  \__ \/ __ \/ /_/ __/ | /| / / __ `/ ___/ _ \   / __/ / __ \/ __ `/ / __ \/ _ \/ _ \/ ___/
- ___/ / /_/ / __/ /_ | |/ |/ / /_/ / /  /  __/  / /___/ / / / /_/ / / / / /  __/  __/ /    
-/____/\____/_/  \__/ |__/|__/\__,_/_/   \___/  /_____/_/ /_/\__, /_/_/ /_/\___/\___/_/     
-                                                           /____/                                                                 
-```
-
-![My Stacks](https://skillicons.dev/icons?i=nodejs,ts,react,vue,tailwind,flutter,dart,php,laravel,mysql,postgres,mongodb,figma,nuxtjs,docker,aws)
+![My Stacks](https://skillicons.dev/icons?i=php,go,dart,nodejs,ts,react,vue,flutter)
